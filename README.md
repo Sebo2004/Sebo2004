@@ -3,6 +3,22 @@ Junior DevOps | Linux & Cloud Engineer
 
 ---
 
+## Professional Profile
+
+Technologist in Informatics focused on Linux server administration, infrastructure normalization, containerization, and cloud environments.
+
+I specialize in:
+
+- Linux Server Administration  
+- Infrastructure Standardization  
+- Docker & Podman  
+- OpenShift  
+- Networking Fundamentals  
+- Git & Version Control  
+- Automation Fundamentals  
+
+---
+
 ## Development Foundations
 
 Basic working knowledge of application development principles, including:
