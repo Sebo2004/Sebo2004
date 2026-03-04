@@ -22,41 +22,39 @@ I specialize in:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebastiansantos&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiansantos&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastiansantos&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansantos&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true"/>
 </p>
-
 ---
 
 ## Technical Stack
 
 ### Operating Systems
-- Linux (Rocky, Ubuntu, CentOS)
-- Windows Server (Foundations)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
 
 ### Containers & Orchestration
-- Docker
-- Podman
-- OpenShift
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
+</p>
 
-### Version Control
-- Git
-- GitHub
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bash" />
+</p>
 
 ### Cloud & Infrastructure
-- Infrastructure baseline configuration
-- Server normalization
-- Network fundamentals
-- Basic CI/CD concepts
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 ---
 
 ## Current Focus
