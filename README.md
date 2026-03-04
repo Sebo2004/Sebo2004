@@ -3,19 +3,16 @@ Junior DevOps | Linux & Cloud Engineer
 
 ---
 
-## Professional Profile
+## Development Foundations
 
-Technologist in Informatics focused on Linux server administration, infrastructure normalization, containerization, and cloud environments.
+Basic working knowledge of application development principles, including:
 
-I specialize in:
+- JavaScript and Node.js environments  
+- React fundamentals  
+- SQL database interaction  
+- Desktop application packaging with Electron  
 
-- Linux Server Administration  
-- Infrastructure Standardization  
-- Docker & Podman  
-- OpenShift  
-- Networking Fundamentals  
-- Git & Version Control  
-- Automation Fundamentals  
+This knowledge allows better understanding of application lifecycles, deployment pipelines, and containerized environments.
 
 ---
 
