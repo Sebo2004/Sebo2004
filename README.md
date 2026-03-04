@@ -7,35 +7,35 @@ Junior DevOps | Linux & Cloud Engineer
 
 Technologist in Informatics focused on Linux server administration, infrastructure normalization, containerization, and cloud environments.
 
-I specialize in:
+Core competencies include:
 
 - Linux Server Administration  
 - Infrastructure Standardization  
 - Docker & Podman  
-- OpenShift  
-- Networking Fundamentals  
+- OpenShift Fundamentals  
+- Networking Foundations  
 - Git & Version Control  
-- Automation Fundamentals  
+- Basic Automation Practices  
 
 ---
 
 ## Development Foundations
 
-Basic working knowledge of application development principles, including:
+Working knowledge of application development principles, including:
 
 - JavaScript and Node.js environments  
 - React fundamentals  
 - SQL database interaction  
 - Desktop application packaging with Electron  
 
-This knowledge allows better understanding of application lifecycles, deployment pipelines, and containerized environments.
+This foundation supports better understanding of application lifecycles, deployment workflows, and containerized environments.
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebastiansantos&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sebo2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sebo2004&theme=github-compact&hide_border=true"/>
