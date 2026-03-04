@@ -24,14 +24,10 @@ I specialize in:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sebastiansantos&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebo2004&layout=compact&hide_border=true&cache_seconds=3600" height="140"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sebo2004&theme=github-compact&hide_border=true"/>
 </p>
+
 ---
 
 ## Technical Stack
@@ -46,7 +42,7 @@ I specialize in:
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
 </p>
 
-### DevOps & Tools
+### DevOps & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bash" />
 </p>
@@ -55,6 +51,15 @@ I specialize in:
 <p>
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
+
+---
+
+## Application & Development Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,sqlite,electron" />
+</p>
+
 ---
 
 ## Current Focus
