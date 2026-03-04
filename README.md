@@ -22,15 +22,15 @@ I specialize in:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebo2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=3600" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebo2004&layout=compact&hide_border=true&cache_seconds=3600" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sebo2004&theme=github-compact&hide_border=true"/>
 </p>
 ---
 
