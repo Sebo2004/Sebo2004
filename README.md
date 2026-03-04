@@ -22,7 +22,7 @@ I specialize in:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebo2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=3600" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=sebastiansantos&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
